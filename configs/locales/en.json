@@ -1,0 +1,15 @@
+{
+	"WELCOME_MESSAGE": "Hello User, Welcome To Express APi!",
+	"INVALID_REQUEST": "Invalid Request. Please try again.",
+	"INVALID_REQUEST_TYPE": "Invalid Request type. Please try again.",
+	"REQUEST_FORBIDDEN": "Request is forbidden. Please try again.",
+	"MISSING_HEADER": "Headers missing, Please try again.",
+	"MISSING_PARAMS": "Parameters missing, Please try again.",
+	"TOKEN_EXPIRED": "Token expired, Please try again.",
+	"INVALID_API_KEY": "Invalid api key, Please try again.",
+	"MISSING_EMAIL": "Please enter email for further communication.",
+	"INVALID_LOGIN": "Invalid login details, Please try again.",
+	"RECORD_NOT_FOUND": "We did not find any record.",
+	"RECORD_NOT_UPDATED": "We could not update the record. Please try again.",	
+	"USER_REGISTERED_SUCCESSFULLY": "User Registered successfully.OTP is sent to you email."	
+}
